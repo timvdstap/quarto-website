@@ -1,6 +1,7 @@
 ---
 title: "Making shareable documents with Quarto"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+subtitle: "Create open-source tutorials, onboarding docs, and much more, as edited by me!"
+author: Tim van der Stap
 ---
 
 ## Welcome {#welcome}
